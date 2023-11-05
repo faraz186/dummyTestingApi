@@ -17,4 +17,3 @@ https://fakestoreapi.com/carts
 https://fakestoreapi.com/users
 https://api.github.com/users
 https://api.github.com/repos/vercel/next.js
--------------------------------------------------------
